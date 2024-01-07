@@ -1,6 +1,6 @@
 # CE880 University of Essex: 2022-2023
 
-## Supervise by sagihaider Haider Raza
+## Supervised by Haider Raza
 
 # Table of Contents
 1. [week 1: Introduction to Data Science](#introduction)

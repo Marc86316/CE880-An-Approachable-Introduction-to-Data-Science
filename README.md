@@ -1,14 +1,14 @@
 # CE880 University of Essex: 2022-2023
 
 # Table of Contents
-1. [Lab 1: Introduction to Data Science](#introduction)
-2. [Lab 2: Being a Data Scientist](#DS)
-3. [Lab 3: Data Exploration: Exploratory Data Analysis](#DE)
-4. [Lab 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
-5. [Lab 5: Introduction to Machine Learning](#ML)
-6. [Lab 6: Evaluation Metrics and Hypothesis Testing](#SHT)
-7. [Lab 7: Decision Tree and Ensemble Learning](#DTE)
-9. [Lab 9: Explainable AI](#xAI)
+1. [week 1: Introduction to Data Science](#introduction)
+2. [week 2: Being a Data Scientist](#DS)
+3. [week 3: Data Exploration: Exploratory Data Analysis](#DE)
+4. [week 4: Data Exploration: Clustering and Dimensionality Reduction](#DE2)
+5. [week 5: Introduction to Machine Learning](#ML)
+6. [week 6: Evaluation Metrics and Hypothesis Testing](#SHT)
+7. [week 7: Decision Tree and Ensemble Learning](#DTE)
+9. [week 9: Explainable AI](#xAI)
 <!-- 
 10. [Lab 7: Deep Learning for Images and Text](#DL)
 11. [Lab 8: Transfer Learning](#TL) 
@@ -18,21 +18,16 @@
 
 ***
 
-## Lab 1: Introduction to Data Science <a name="introduction"></a>
-
-Please make sure you have filled this [Google form](https://docs.google.com/forms/d/1Nehjs_qlZXsJC4uNzxoYKAZ68ys8L8OqiqWLAHXol64/prefill) so we can have your repository information. This task is mandatory and if you ignore it you may lose marks of your lab sessions.
+## Week 1: Introduction to Data Science <a name="introduction"></a>
 
 ### Steps to follow:
 
 1. Create a Google Account if you don't have.
 2. Open [Google Colab](https://colab.research.google.com/)
-3. For help on Colab, please watch YouTube Tutorials or watch my [YouTube Tutorial](https://www.youtube.com/watch?v=Zwqy5ub_-00&list=PLIzq8uevSgtdhgCzajHUUESPifdw5ol1N)
-4. Now, jump to [Week 1](https://github.com/sagihaider/CE880_2021/tree/main/Week1) and read the whole notebook.
-5. Now complete your problems given on Moodle. Please feel free to take the help from web.
-6. Once you complete the questions make sure your lab instructor has check and marked you. 
+3. For help on Colab, please watch YouTube Tutorials [YouTube Tutorial](https://www.youtube.com/watch?v=Zwqy5ub_-00&list=PLIzq8uevSgtdhgCzajHUUESPifdw5ol1N)
+4. Now, start from [Week 1](https://github.com/sagihaider/CE880_2021/tree/main/Week1) and read the whole notebook.
 
-
-## Lab 2: Being a Data Scientist <a name="DS"></a>
+## Week 2: Being a Data Scientist <a name="DS"></a>
 
 ### Steps to follow:
 
@@ -41,7 +36,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 3. Open [Exercise 2](https://github.com/sagihaider/CE880/blob/main/Week2/Exercise_2_2_Pandas.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Pandas and re-run all the cells and feel free to play with it.
 
 
-## Lab 3: Data Exploration: Exploratory Data Analysis<a name="DE"></a>
+## Week 3: Data Exploration: Exploratory Data Analysis<a name="DE"></a>
 
 ### Steps to follow:
 
@@ -51,7 +46,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 4. Open [Exercise 3](https://github.com/sagihaider/CE880/blob/main/Week3/Exercise_3_3_BasicStatistics.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered basic statistics and re-run all the cells and feel free to play with it.
 
 
-## Lab 4: Data Exploration: Clustering and Dimensionality Reduction <a name="DE2"></a>
+## Week 4: Data Exploration: Clustering and Dimensionality Reduction <a name="DE2"></a>
 
 ### Steps to follow:
 
@@ -59,7 +54,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 2. Open [Exercise 1](https://github.com/sagihaider/CE880/blob/main/Week4/Exercise_4_DataExploration.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered Clustering, Dimensionality Reduction, Outlier Detection, and a case study. Please re-run all the cells and feel free to play with it.
 
 	
-## Lab 5: Introduction to Machine Learning <a name="ML"></a>
+## Week 5: Introduction to Machine Learning <a name="ML"></a>
 
 ### Steps to follow:
 
@@ -68,7 +63,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 3. Open [Exercise 5: Classification](https://github.com/sagihaider/CE880_2021/blob/main/Week5/Exercise_5_Classification.ipynb) in new tab and open the notebook in Google Colab. Go through the notebook, where we have covered classification on the real data. Please re-run all the cells and feel free to play with it.
 
 
-## Lab 6: Statistics and Hypothesis Testing <a name="SHT"></a>
+## Week 6: Statistics and Hypothesis Testing <a name="SHT"></a>
 
 ### Steps to follow:
 
@@ -77,7 +72,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 
 
 
-## Lab 7: Decision Tree and Ensemble Learning <a name="DTE"></a>
+## Week 7: Decision Tree and Ensemble Learning <a name="DTE"></a>
 
 ### Steps to follow:
 
@@ -87,7 +82,7 @@ Please make sure you have filled this [Google form](https://docs.google.com/form
 
 
 
-## Lab 9: Explainable AI <a name="xAI"></a>
+## Week 9: Explainable AI <a name="xAI"></a>
 
 ### Steps to follow:
 

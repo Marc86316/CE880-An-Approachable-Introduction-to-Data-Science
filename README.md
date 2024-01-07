@@ -1,4 +1,3 @@
-# CE880
 # CE880 University of Essex: 2022-2023
 
 # Table of Contents

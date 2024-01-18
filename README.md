@@ -11,10 +11,6 @@
 6. [week 6: Evaluation Metrics and Hypothesis Testing]
 7. [week 7: Decision Tree and Ensemble Learning]
 9. [week 9: Explainable AI]
-
-
-***
-
 ***
 ## Important Packages
 
